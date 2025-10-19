@@ -52,6 +52,6 @@ The redesign process followed a structured **UI/UX workflow**:
 
 The redesigned Coffee Shop Landing Page successfully delivers a modern and engaging digital experience. It demonstrates an understanding of key UI/UX principles — simplicity, consistency, accessibility, and user focus. The project also showcases the use of professional tools like **Figma**, **Canva**, and **ReportLab**, reflecting a complete design-to-documentation workflow.
 
----
+#OUTPUT
 
-Would you like me to add this description into your existing **PDF report** so it becomes a complete final submission version?
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b6069772-93e4-42cc-b1ac-31c605be9088" />
